@@ -31,5 +31,7 @@ def main():
             os.rename(os.path.join(Source_Path_WAV, filename),  os.path.join(Destination_WAV, dst + '.wav'))
             print(filename + ' renamed to ' + dst + '.wav')
 
+    print('File conversion complete')
+
 if __name__ == '__main__':
     main()

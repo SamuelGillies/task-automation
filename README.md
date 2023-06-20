@@ -23,14 +23,12 @@ Make sure there is a space after this command.
 
 5. Drag the Audio folder into **cmd**. The file path should populate. Press enter. 
 
-6. in cmd, type:
+6. In cmd, type:
 
 ```
 python3
 ```
 
-and press enter. This should load the Python Interactive Shell. 
-
-7. Drag the FileRename_HeritageQuay.py file into **cmd**. Press enter. 
+add a space, and then drag the FileRename_HeritageQuay.py file into **cmd**. The file path should populate. Press enter. 
 
 8. Check the MP3 and WAV folders – they should now contain audio files that have been renamed. 
