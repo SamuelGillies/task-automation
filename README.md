@@ -31,4 +31,4 @@ python3
 
 add a space, and then drag the FileRename_HeritageQuay.py file into **cmd**. The file path should populate. Press enter. 
 
-8. Check the MP3 and WAV folders – they should now contain audio files that have been renamed. 
+7. Check the MP3 and WAV folders – they should now contain audio files that have been renamed. 
