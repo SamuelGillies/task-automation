@@ -14,18 +14,22 @@ A script to rewrite the contents of two folders on the Heritage Quay digital arc
 ![Example file directory structure](/images/source_folder.png)
 
 4. In **cmd** enter: 
+
 ```
 cd 
 ```
-    Make sure there is a space after this command.
+
+Make sure there is a space after this command.
 
 5. Drag the Audio folder into **cmd**. The file path should populate. Press enter. 
 
 6. in cmd, type:
+
 ```
 python3
 ```
-    and press enter. This should load the Python Interactive Shell. 
+
+and press enter. This should load the Python Interactive Shell. 
 
 7. Drag the FileRename_HeritageQuay.py file into **cmd**. Press enter. 
 
