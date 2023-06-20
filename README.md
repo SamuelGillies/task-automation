@@ -8,7 +8,7 @@ A script to rewrite the contents of two folders on the Heritage Quay digital arc
 1. Download the FileRename_HeritageQuay.py file to your computer
 2. Open cmd application 
 3. Locate the folder containing the audio you wish to convert. You want the folder that contains both the MP3 and WAV folders. This will be referred to as the 'Audio' folder. 
-!(./images/source_folder.png)
+!(/images/source_folder.png)
 4. In cmd enter: 
 > cd 
 make sure there is a space after cd
