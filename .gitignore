@@ -1,4 +1,4 @@
-data/
-output/ 
-source/
+data/*
+output/* 
+source/*
 keys
