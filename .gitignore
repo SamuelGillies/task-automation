@@ -5,4 +5,4 @@ output/*
 source/*
 !source/.gitkeep
 
-keys.txt
+keys.py
